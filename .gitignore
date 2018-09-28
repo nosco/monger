@@ -12,3 +12,4 @@ todo.org
 .nrepl-*
 .idea/
 *.iml
+.cpcache
